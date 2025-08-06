@@ -5,3 +5,12 @@ body {
   padding: 0;
   background-color: #f4f4f4;
 }
+
+/* d1: style(css): Create full-height header with centered content */
+.header {
+  height: 100vh; /* 100% de la altura de la ventana */
+  background-color: #333; /* Fondo oscuro si la imagen no carga o tarda en cargar */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
