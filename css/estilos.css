@@ -49,3 +49,46 @@ header{
     position: relative; /* Agregamos posición relativa para posicionar el botón */
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blog,
+.contact {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.blog {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.blog h2 {
+    text-align: center;
+}
+
+.blog-entry {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: flex-start; /* Alinea los elementos en la parte superior del contenedor flex */
+}
+
