@@ -28,3 +28,18 @@ body {
   object-fit: cover; /* Hace que la imagen cubra completamente el contenedor sin distorsionarse */
 }
 
+
+
+
+
+
+
+
+/* d1: style(css): Position and style logo */
+.logo {
+  float: left;
+  font-size: 1.5em;
+  margin-top: 10px;
+  color: #fff;
+}
+
