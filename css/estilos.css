@@ -14,3 +14,11 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+header{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
