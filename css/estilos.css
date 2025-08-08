@@ -20,6 +20,7 @@ body {
   height: 100%;
   object-fit: cover; /* Hace que la imagen cubra completamente el contenedor sin distorsionarse */
 }
+
 /* d1: style(css): Position and style logo */
 .logo {
   float: left;
@@ -27,6 +28,7 @@ body {
   margin-top: 10px;
   color: #fff;
 }
+
 /* d1: feat(css): Create responsive image gallery with hover effect */
 .gallery {
   margin-top: 20px;
@@ -110,7 +112,7 @@ header{
     position: relative; /* Agregamos posición relativa para posicionar el botón */
 }
 
-.blog{
+.blog {
     margin-top: 20px;
     padding: 20px;
     background-color: #fff;
@@ -140,6 +142,7 @@ header{
     display: flex;
     align-items: flex-start; /* Alinea los elementos en la parte superior del contenedor flex */
 }
+
 footer {
     background-color: black;
     color: #fff;
