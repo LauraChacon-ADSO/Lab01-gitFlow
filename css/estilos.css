@@ -43,3 +43,29 @@ body {
   color: #fff;
 }
 
+
+
+
+
+
+
+/* d1: feat(css): Create responsive image gallery with hover effect */
+.gallery {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gallery img {
+  width: 30%;
+  margin: 10px;
+  box-sizing: border-box;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.gallery img:hover {
+  transform: scale(1.1);
+}
+
